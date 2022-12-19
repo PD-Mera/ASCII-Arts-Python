@@ -1,4 +1,4 @@
-# Make some funny ASCII Arts
+# Make some funny ASCII Arts with Python
 
 ## Requirements
 
